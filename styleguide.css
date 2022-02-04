@@ -1,0 +1,11 @@
+:root { 
+  --black: #000000;
+  --meteorite: #40196d;
+  --white: #ffffff;
+ 
+  --font-size-l: 124px;
+  --font-size-m: 26px;
+  --font-size-s: 14px;
+ 
+  --font-family-poppins: "Poppins", Helvetica;
+}
